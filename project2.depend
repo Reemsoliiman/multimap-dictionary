@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1715188604 source:h:\project2\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"List.h"
+	"Operation.h"
+	"Menu.h"
+
+1715211362 h:\project2\project2\list.h
+
+1715211362 h:\project2\project2\operation.h
+	"List.h"
+
+1715211430 source:h:\project2\project2\list.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1715215732 source:h:\project2\project2\operation.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+	"Operation.h"
+
+1715204897 h:\project2\project2\menu.h
+
+1715233485 source:h:\project2\project2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"List.h"
+	"Operation.h"
+	"Menu.h"
+
+1717425992 source:h:\ds_project\project2\list.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1717425964 h:\ds_project\project2\list.h
+
+1715188604 source:h:\ds_project\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"List.h"
+	"Operation.h"
+	"Menu.h"
+
+1717379553 h:\ds_project\project2\operation.h
+	"List.h"
+
+1715204897 h:\ds_project\project2\menu.h
+
+1717426943 source:h:\ds_project\project2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"List.h"
+	"Operation.h"
+	"Menu.h"
+
+1717426276 source:h:\ds_project\project2\operation.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+	"Operation.h"
+
